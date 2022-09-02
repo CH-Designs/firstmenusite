@@ -1,0 +1,38 @@
+/* a {
+    background-color: blueviolet;
+    font-size: 2em;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    width: 100px;
+    align-items: center;
+    padding: 20px;
+    margin-top: .5em;   
+} */
+.container {
+    max-width: 1200px;
+    padding: 25px 30px;
+    margin: auto;
+}
+
+.navigation {
+    background-color: rgb(1,1, 22);
+    padding: 25px 35px;
+    display: flex;
+    align-items: center;
+}
+
+menue-bar a{
+    background-color: blueviolet;
+    color: #eee;
+    font-size: 1.5em;
+    text-decoration: none;
+}
+
+a {
+    color: #eee;
+    font-size: 1em;
+    text-decoration: none;
+    padding: 10px 15px;
+    background-color:#01013b
+    margin: 0 5px;
+    borderradius: 50px;
+}
